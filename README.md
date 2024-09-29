@@ -22,8 +22,13 @@
  * Double click on problem_statement_1 package to expand.
  * Open Problem_Statement_1.java, right click, go to Run As and click on 1 TestNg Test.
  * The test script will start executing.
- * 
- * 
+ * Double click on problem_statement_2 package to expand.
+ * Open Problem_Statement_2_2.java, right click, go to Run As and click on 1 Java Application.
+ * The test script will start executing.
+ * Open Problem_Statement_2_4.java, right click, go to Run As and click on 1 Java Application.
+ * The test script will start executing.
+ *
+ *
  * If using GitBash:-
  * Go the folder in your local system where you want to store the project.
  * Right click and select Open Git Bash here or click on show more options and then click on Open Git Bash here.
@@ -40,7 +45,11 @@
  * Double click on problem_statement_1 package to expand.
  * Open Problem_Statement_1.java, right click, go to Run As and click on 1 TestNg Test.
  * The test script will start executing.
- * 
+ * Double click on problem_statement_2 package to expand.
+ * Open Problem_Statement_2_2.java, right click, go to Run As and click on 1 Java Application.
+ * The test script will start executing.
+ * Open Problem_Statement_2_4.java, right click, go to Run As and click on 1 Java Application.
+ * The test script will start executing.
  * 
  *
  */
