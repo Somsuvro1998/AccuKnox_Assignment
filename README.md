@@ -19,8 +19,8 @@
  * Now the Project should be visible in your Project Explorer section on the left side.
  * Double click on the project to expand.
  * Double click on src/test/java to expand.
- * Double click on assignment package to expand.
- * Open FitPeo.java, right click, go to Run As and click on 1 TestNg Test.
+ * Double click on problem_statement_1 package to expand.
+ * Open Problem_Statement_1.java, right click, go to Run As and click on 1 TestNg Test.
  * The test script will start executing.
  * 
  * 
@@ -37,8 +37,8 @@
  * Now the Project will be visible in your Project Explorer section on the left side.
  * Double click on the project to expand.
  * Double click on src/test/java to expand.
- * Double click on assignment package to expand.
- * Open FitPeo.java, right click, go to Run As and click on 1 TestNg Test.
+ * Double click on problem_statement_1 package to expand.
+ * Open Problem_Statement_1.java, right click, go to Run As and click on 1 TestNg Test.
  * The test script will start executing.
  * 
  * 
