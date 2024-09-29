@@ -1,15 +1,14 @@
-import java.util.concurrent.TimeUnit;
+package problem_statement_1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Facebook_Login {
+public class Problem_Statement_1 {
 @Test
 	public void test() throws Throwable {
 		
@@ -17,7 +16,7 @@ public class Facebook_Login {
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.facebook.com/");
-		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+		Thread.sleep(3000);
 		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("abcd1234@#$");
 		driver.findElement(By.xpath("//input[@name='pass']")).sendKeys("123456789");
 		driver.findElement(By.xpath("//button[text()='Log in']")).click();
@@ -31,3 +30,4 @@ public class Facebook_Login {
 		sa.assertAll();	
 	}
 }
+
