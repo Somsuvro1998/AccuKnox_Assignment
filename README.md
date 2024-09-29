@@ -1,1 +1,1 @@
-Select Master Branch to see the Assignment
+Select master Branch to see the Assignment
